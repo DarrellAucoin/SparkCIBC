@@ -1,0 +1,25 @@
+event,expense,price
+Intro to SQL,pizza,87.43
+Intro to SQL,pop,15.34
+Begining of Term,pop,13.23
+Begining of Term,pizza,45.34
+End of Term,pop,23.23
+End of Term,veggie platter,25.23
+End of Term,fries,21.21
+Intro to Hadoop,coffee,23.12
+Intro to Hadoop,water,10.23
+Intro to Hadoop,donuts,53.23
+Intro to Hadoop,cookies,10.23
+Intro to SQL: Basic Queries,cookies,10.23
+Intro to SQL: Basic Queries,donuts,20.34
+Intro to SQL: Basic Queries,pop,21.54
+Intro to SQL: Basic Queries,water,10.52
+Prof Talk: Machine Learning,pop,20.31
+Prof Talk: Machine Learning,pizza,62.56
+Prof Talk 2,pizza,61.56
+Prof Talk 2,pop,15.65
+End of Term,meals,90.98
+Intro to SQL: Advanced Queries,cookies,10.23
+Intro to SQL: Advanced Queries,donuts,20.34
+Intro to SQL: Advanced Queries,pop,21.54
+Intro to SQL: Advanced Queries,water,10.52

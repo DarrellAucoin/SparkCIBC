@@ -1,0 +1,23 @@
+name,type,presenter,organizer,poster,start_time,end_time,location,budget,Description
+Begining of Term,social,,judith,judith,2015-01-28 19:00:00,2015-01-28 22:00:00,C & D,90.0,Come and play games with your fellow stats Club members. Food and snacks provided.
+End of Term,social,,dominick,dominick,,,,160.0,End of Term social at a local Pub. A joint event with Act Sci.
+Intro to Hadoop,educational,darrell,darrell,gilberto,2015-03-25 14:30:00,2015-03-25 16:00:00,M3-3103,90.0,"Hadoop is a distributed computing system designed to process information beyond the processing limitations to SQL databases: Tetrabyes, Petrabytes, etc. Hadoop and related tools are the data analysis platform used for ""big data"". Such companies that use Hadoop include: Facebook, Amazon, ebay, Google, LinkedIn, Twitter."
+Intro to SQL,educational,darrell,darrell,patrick,2015-02-05 18:00:00,2015-02-05 19:30:00,MC-3003,90.0,"SQL is a relational database language and along with R and Python is among the most popular data analysis tools and one of the most in-demand skills for 2014.
+
+The talk will touch on the theory behind relational databases and various ways of querying a SQL database with short quizzes in between. Food will be available to Stats Club Members ($2)."
+Prof Talk: Machine Learning,educational,Chong Zhang,patrick,dominick,2015-03-03 15:00:00,2015-03-03 16:00:00,M3-2134,90.0,Machine Learning and Data Mining: How We can Change the World
+Prof Talk 2,educational,,judith,judith,,,,90.0,
+Intro to SQL: Basic Queries,educational,darrell,darrell,darrell,2015-03-09 18:00:00,2015-03-09 19:30:00,MC-3003,100.0,"SQL is a relational database language and along with R and Python is among the most popular data analysis tools and one of the most in-demand skills for 2014.
+
+Hands-on practice with SQL. Please have SQLite Browser installed if you’re using your own laptop.
+
+Available to Stats Club Members ($2 for membership for UW students).
+
+Free food after presentation (MC Comfy)."
+Intro to SQL: Advanced Queries,educational,darell,darrell,darrell,2015-03-12 18:00:00,2015-03-12 19:30:00,MC-3003,100.0,"SQL is a relational database language and along with R and Python is among the most popular data analysis tools and one of the most in-demand skills for 2014.
+
+Hands-on practice with SQL. Please have SQLite Browser installed if you’re using your own laptop.
+
+Available to Stats Club Members ($2 for membership for UW students).
+
+Free food after presentation (MC Comfy)."
